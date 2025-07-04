@@ -13,7 +13,7 @@ FlickClean ("we", "our", or "us") is committed to protecting your privacy. This 
 For the purposes of the GDPR, we are the data controller of your personal data. If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 * Email: flickcleanapp@gmail.com
-* Website: https://flenz73.github.io/FlickClean/
+* Website: https://flenz73.github.io/
 
 ## Legal Basis for Processing
 
@@ -166,7 +166,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 * Email: flickcleanapp@gmail.com
-* Website: https://flenz73.github.io/FlickClean/
+* Website: https://flenz73.github.io/
 
 ## Compliance
 
